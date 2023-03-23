@@ -1,0 +1,32 @@
+.campo-medio{
+    display: inline-block;
+    padding-right: .5rem;
+}
+
+.grupo{
+    width: 19%;
+    display: inline-block;
+    padding: 10px 0px;
+}
+
+.fadeout{
+    opacity: 0;
+    transition: 0.10s;
+}
+
+.adicionar-paciente{
+    margin-top: 30px;
+}
+
+header h1{
+    color: rgb(0, 121, 121);
+}
+
+.aaa{
+    color: rgb(111, 111, 252);
+}
+
+#mensagens-erro{
+    color: red;
+}
+
