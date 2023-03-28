@@ -1,0 +1,1 @@
+Voce estruturou corretamente seu HTML/CSS, porém não enviou os arquivos de javascript, sendo assim voce ficou com o nivel-02 e sua nota é 2,5.
